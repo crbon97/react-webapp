@@ -1,0 +1,68 @@
+.exception-page {
+    display: flex;
+    align-items: center;
+    height: 80%;
+    min-height: 490px;
+    padding: 0 24px;
+}
+
+.exception-imgBlock {
+    flex: 0 0 62.5%;
+    width: 62.5%;
+    padding-right: 152px;
+    zoom: 1;
+}
+
+.exception-imgEle {
+    float: right;
+    width: 100%;
+    max-width: 430px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+}
+
+.exception-content {
+    flex: auto;
+}
+
+.exception-content h1 {
+    margin-bottom: 24px;
+    color: #434e59;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 72px;
+}
+
+.exception-desc {
+    margin-bottom: 16px;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 20px;
+    line-height: 28px;
+}
+
+@media screen and (max-width: 576px) {
+    .exception-page {
+        display: block;
+        text-align: center;
+    }
+
+    .exception-imgBlock {
+        margin: 0 auto 24px;
+        padding-right: 0 !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .exception-imgBlock {
+        margin-bottom: -24px;
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .exception-imgBlock {
+        padding-right: 88px;
+    }
+}

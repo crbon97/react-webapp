@@ -1,0 +1,155 @@
+.layout_themnhanvien{
+    box-sizing: border-box;
+}
+.ant-page-header {
+    padding: 16px 32px 0;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.ant-page-header-title-view-title {
+    font-weight: 600;
+    font-size: 20px;
+}
+.nv-them-page-content-loading{
+    margin: 24px 24px 0;
+    background:#fff;
+}
+/* @media (max-width: 480px){
+.page-content {
+    width: 100%;
+    overflow-x: auto;
+}} */
+/* edit */
+.nv-them-page-content-loading .ant-row{
+    margin-bottom: 10px;
+}
+@media (max-width: 575px){
+    .page-content {
+        width: 100%;
+        overflow-x: auto;
+    }
+    .nv-them-page-content-loading .ant-form-item{
+        margin-bottom: 0;
+    }
+    .nv-them-page-content-loading .ant-form-item-control .ant-form-item-children{
+        align-content: center
+    }
+}
+/* .nv-xem-page-content-loading .ant-col .ant-col-8{
+    font-weight: 600;
+    font-size: 14px;
+} */
+
+/* css TEST NHAN VIEN */
+@media (max-width: 575px){
+    .nv-them-page-content-loading .ant-card-body{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .nv-them-page-content-loading .ant-row {
+        margin-bottom: 0px;
+    }
+    .nv-them-page-content-loading .ant-col{
+        margin-bottom: 0px;
+    }
+}
+.nv-them-page-content-loading .ant-form{
+    line-height: 3
+}
+/* margin row */
+.nv-them-page-content-loading .ant-row{
+    margin-bottom: 6px   
+}
+.nv-them-page-content-loading .themnv_btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px
+}
+.nv-them-page-content-loading .ant-form-item {
+    display: flex;
+}
+.nv-them-page-content-loading .ant-form-item-control-wrapper {
+    flex: 1 1;
+}
+.nv-them-page-content-loading .ant-row{
+    padding-left: 5px;
+    padding-right: 8px;
+}
+.nv-them-page-content-loading .ant-form-item-control{
+    /* width: 250px;
+    float: right; */
+    width: auto
+}
+.nv-them-page-content-loading .ant-form-item-label{
+    width: 34%;
+}
+@media (max-width: 575px){
+    .nv-them-page-content-loading .ant-form-item-control{
+        /* width: 180px; */
+        width: 200px;
+    }
+    .nv-them-page-content-loading .ant-form-item-children input{
+        width: 200px;
+    }
+    .nv-them-page-content-loading .ant-form-item-children textArea{
+        width: 200px;
+    }
+    .nv-them-page-content-loading .hide-tt .ant-form-item-label{
+        width: 0;
+    }
+    .nv-them-page-content-loading .ant-row{
+        padding-left: 8px;
+        padding-right: 0px;
+    }
+    /* .nv-them-page-content-loading .width-lylich .ant-form-item-control{
+        width: 180px;
+    } */
+    /* .aa .ant-form-item-control{
+        width: 180px;
+    } */
+}
+/* dang test */
+/* .nv-them-page-content-loading .width-tamtru{
+    width: 640px;
+    float: right;
+} */
+/* dang test */
+.nv-them-page-content-loading .width-ghichu{
+    width: 80%;
+}
+/* .nv-them-page-content-loading .width-lylich .ant-form-item-control{
+    width: 1025px;
+    float: right;
+} */
+.trangthai-lv .ant-form-item-label{
+    width: auto;
+    margin-right: 8px;
+}
+/* .width-lylich #DMNhanVien_them_LyLich{
+    width: 100px !important;
+} */
+/* .nv-them-page-content-loading #DMNhanVien_them_GhiChu{
+    width: 415%;
+} */
+/* .nv-them-page-content-loading #DMNhanVien_them_LyLich{
+    width: 415%;
+} */
+
+.nv-them-page-content-loading .width-tamtru{
+    width: 255%;
+}
+@media(min-width: 800px){
+    .nv-them-page-content-loading #DMNhanVien_them_GhiChu{
+    width: 415%;
+    }
+    .lylich-width .ant-form-item-control{
+        width: 255%;
+    }
+}
+
+
+
+
+
+
+

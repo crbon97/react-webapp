@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc012875.chunk.css",
+    "main.js": "/static/js/main.d4c41ada.chunk.js",
+    "main.js.map": "/static/js/main.d4c41ada.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.6466deae.chunk.css": "/static/css/2.6466deae.chunk.css",
+    "static/js/2.610e6052.chunk.js": "/static/js/2.610e6052.chunk.js",
+    "static/js/2.610e6052.chunk.js.map": "/static/js/2.610e6052.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.73986015766faa838c5ec76bd059553d.js": "/precache-manifest.73986015766faa838c5ec76bd059553d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6466deae.chunk.css.map": "/static/css/2.6466deae.chunk.css.map",
+    "static/css/main.fc012875.chunk.css.map": "/static/css/main.fc012875.chunk.css.map",
+    "static/media/403.svg": "/static/media/403.2dda86ad.svg",
+    "static/media/404.svg": "/static/media/404.9ed13bbe.svg",
+    "static/media/500.svg": "/static/media/500.990ae4d0.svg",
+    "static/media/LoginPage.css": "/static/media/login-bg.5825f033.svg",
+    "static/media/login-logo.svg": "/static/media/login-logo.37e12f8f.svg"
+  }
+}

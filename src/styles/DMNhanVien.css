@@ -1,0 +1,60 @@
+.nv-layout{
+    box-sizing: border-box;
+}
+.page-header{
+    padding: 16px 32px 0;
+    background: #fff;
+    border-bottom: 1px solid #e8e8e8;
+}
+.page-header-title-view{
+    display: inline-block;
+}
+.page-header-content-view{
+    padding-top: 12px;
+}
+.nv-page-content-loading{
+    margin: 24px 24px 0;
+    background:#fff;
+}
+@media (max-width: 480px){
+/* .page-content {
+    width: 100%;
+    overflow-x: auto;
+} */
+/* css setting padding */
+.ant-table, .page-content {
+    width: 100%;
+    overflow-x: auto;
+}
+.nv-page-content-loading{
+    margin: 12px 12px 0;
+}
+}
+@media (max-width: 480px){
+.ant-table-thead > tr > th, .ant-table-tbody > tr > th, .ant-table-thead > tr > td, .ant-table-tbody > tr > td {
+    white-space: pre;
+}}
+
+.nv-page-content-loading .ant-form-item {
+    display: flex;
+}
+
+.nv-page-content-loading .ant-form-item-label {
+    width: auto;
+    padding-right: 8px;
+    line-height: 32px;
+}
+
+.nv-page-content-loading .ant-form-item-control-wrapper {
+    flex: 1 1;
+}
+
+.nv-page-content-loading .ant-upload-list-item {
+    width: 50%;
+}
+
+@media screen and (max-width: 700px) {
+    .nv-page-content-loading .ant-upload-list-item {
+        width: 100%;
+    }
+}
